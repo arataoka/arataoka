@@ -1,5 +1,3 @@
-https://github.com/arataoka/arataoka/assets/50013344/f5f37000-25bf-45fc-bb2e-6b52f7e58219
-<p>※Created by HTML5 & CSS3 & Javascript (Fan animation)</p>
 
 https://canvas62.netlify.app/
 <p>canvas mmouse stalker animation</p>
